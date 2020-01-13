@@ -77,3 +77,4 @@ cv2.destroyAllWindows()
 # try to process it next
 if name == known_face_names["Hi, Pikacu is here"]:
     print('everything is fine')
+'''
